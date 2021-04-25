@@ -1,5 +1,5 @@
 # NetworkDynamics
-Three homework form the Netwrok Dynamics course at @PoliTo 
+Three homework from the Network Dynamics course at @PoliTo 
 
 
 ## Homework 1:
